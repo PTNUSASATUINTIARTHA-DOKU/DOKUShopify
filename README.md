@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PTNUSASATUINTIARTHA-DOKU/ShopifyMiddleware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Need Support
 
-Having trouble with documentation? Please arise to submit an issue  [issue](https://github.com/PTNUSASATUINTIARTHA-DOKU/DOKUShopify/issues) we’ll help you sort it out.
+Having trouble with documentation? Please arise to submit an [issue](https://github.com/PTNUSASATUINTIARTHA-DOKU/DOKUShopify/issues) we’ll help you sort it out.

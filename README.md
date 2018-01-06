@@ -12,7 +12,7 @@ We have 2 module payment on Shopify, where it's have each different payment type
 1. DOKU Merchant
 2. DOKU Installment
 
-## Explanatoryn### :
+## Explanatory ### :
 
 1. DOKU Merchant
 DOKU Merchant module payment are intend for Standard Payment such as :
@@ -28,33 +28,11 @@ DOKU Merchant module payment are intend for Standard Payment such as :
 DOKU Installment module payment are intend for installment
 
 
-### Installation
+### Installation ###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Configuration ###
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PTNUSASATUINTIARTHA-DOKU/ShopifyMiddleware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Need Support
 

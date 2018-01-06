@@ -12,7 +12,7 @@ We have 2 module payment on Shopify, where it's have each different payment type
 1. DOKU Merchant
 2. DOKU Installment
 
-## Explanatory ### :
+### Explanatory ### :
 
 1. DOKU Merchant
 DOKU Merchant module payment are intend for Standard Payment such as :
@@ -30,7 +30,7 @@ DOKU Installment module payment are intend for installment
 
 ### Installation ###
 
-## Configuration ###
+### Configuration ###
 
 
 

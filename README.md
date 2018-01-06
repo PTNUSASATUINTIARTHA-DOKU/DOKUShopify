@@ -6,7 +6,6 @@ We have 3 module payment on Shopify, where it's have each different payment type
 
 1. DOKU Merchant
 2. DOKU Installment
-3. DOKU Account Billing
 
 **Explanatory** :
 
@@ -22,10 +21,6 @@ DOKU Merchant module payment are intend for Standard Payment such as :
 
 2. DOKU Installment
 DOKU Installment module payment are intend for installment
-
-3. DOKU Account Billing
-DOKU Account Billing module payment are intend for subscription and/or recurring
-
 
 
 ### Markdown

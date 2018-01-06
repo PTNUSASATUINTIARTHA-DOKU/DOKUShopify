@@ -6,6 +6,7 @@ This GitHub Pages are intend to documentation for our module payment on Shopify.
 - [Explanatory](#explanatory)
 - [Installation](#installation)
 - [Configuration](#configuration)
+- [Need Support](#support)
 
 We have 2 module payment on Shopify, where it's have each different payment type :
 
@@ -34,6 +35,6 @@ DOKU Installment module payment are intend for installment
 
 
 
-### Need Support
+### Support ###
 
 Having trouble with documentation? Please arise to submit an [issue](https://github.com/PTNUSASATUINTIARTHA-DOKU/DOKUShopify/issues) we’ll help you sort it out.

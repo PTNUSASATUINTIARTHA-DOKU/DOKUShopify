@@ -1,8 +1,32 @@
 ## Welcome to DOKU module payment for Shopify
 
-You can use the [editor on GitHub](https://github.com/PTNUSASATUINTIARTHA-DOKU/ShopifyMiddleware/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This GitHub Pages are intend to documentation for our module payment on Shopify.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have 3 module payment on Shopify, where it's have each different payment type
+
+1. DOKU Merchant
+2. DOKU Installment
+3. DOKU Account Billing
+
+**Explanatory** :
+
+1. DOKU Merchant
+DOKU Merchant module payment are intend for Standard Payment such as :
+- Bank Transfer
+- Credit Card
+- Convenience Stores
+- Internet Banking
+- DOKU Wallet
+- e-Commerce Payment
+- Tokenization
+
+2. DOKU Installment
+DOKU Installment module payment are intend for installment
+
+3. DOKU Account Billing
+DOKU Account Billing module payment are intend for subscription and/or recurring
+
+
 
 ### Markdown
 

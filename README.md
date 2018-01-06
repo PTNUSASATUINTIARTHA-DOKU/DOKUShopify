@@ -2,12 +2,17 @@
 
 This GitHub Pages are intend to documentation for our module payment on Shopify.
 
-We have 3 module payment on Shopify, where it's have each different payment type
+### Contents ###
+- [Explanatory](#explanatory)
+- [Installation](#installation)
+- [Configuration](#configuration)
+
+We have 2 module payment on Shopify, where it's have each different payment type :
 
 1. DOKU Merchant
 2. DOKU Installment
 
-**Explanatory** :
+## Explanatoryn### :
 
 1. DOKU Merchant
 DOKU Merchant module payment are intend for Standard Payment such as :
@@ -23,7 +28,7 @@ DOKU Merchant module payment are intend for Standard Payment such as :
 DOKU Installment module payment are intend for installment
 
 
-### Markdown
+### Installation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

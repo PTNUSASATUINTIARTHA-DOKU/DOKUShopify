@@ -20,6 +20,7 @@ We have 2 module payment on Shopify, where it's have each different payment type
 ### Explanatory ###
 
 1. DOKU Merchant
+
 DOKU Merchant module payment are intend for Standard Payment such as :
 - Bank Transfer (VA)
 - Credit Card

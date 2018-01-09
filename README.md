@@ -45,12 +45,15 @@ For installation DOKU MERCHANT module payment, installation require authorizatio
 https://www.shopify.com/login?redirect=%2Fadmin%2Fauthorize_gateway%2F1052680
 ```
 
+
 2. After you paste that url on your web browser, on Shopify are need you to authorize the module payment by filling form below as follow : 
 
 ![](https://farm5.staticflickr.com/4696/38880248534_2c37c22ce9_b.jpg)
 
+
 3. Click the button Install Payment Provider as follow : 
 ![](https://farm5.staticflickr.com/4755/24721326177_b2a2f28e25_b.jpg)
+
 
 4. After that you will be direct to settings payment provider, our module payment are appear on Alternative Payments as follow : 
 

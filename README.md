@@ -5,8 +5,8 @@ This GitHub Pages are intend to documentation for our module payment on Shopify.
 ### Contents ###
 - [Explanatory](#explanatory)
 - [Installation](#installation)
-  - [DOKU MERCHANT](#doku_merchant)
-  - [DOKU INSTALLMENT](#doku_installment)
+  - [DOKU MERCHANT](#doku-merchant)
+  - [DOKU INSTALLMENT](#doku-installment)
 - [Configuration](#configuration)
 - [Support](#support)
 

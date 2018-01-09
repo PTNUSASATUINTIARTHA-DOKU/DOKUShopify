@@ -64,6 +64,34 @@ https://www.shopify.com/login?redirect=%2Fadmin%2Fauthorize_gateway%2F1052680
 ![](https://farm5.staticflickr.com/4717/38880558804_7efd885005_z.jpg)
 
 
+### DOKU INSTALLMENT ###
+
+For installation DOKU INSTALLMENT module payment, installation require authorization, please follow step by step as follow : 
+
+
+1. Copy and paste the url below to your browser
+
+
+```
+https://www.shopify.com/login?redirect=%2Fadmin%2Fauthorize_gateway%2F1052606
+```
+
+2. After you paste that url on your web browser, on Shopify are need you to authorize the module payment by filling form below as follow : 
+
+![](https://farm5.staticflickr.com/4696/38880248534_2c37c22ce9_b.jpg)
+
+3. Click the button Install Payment Provider as follow : 
+
+![](https://farm5.staticflickr.com/4606/24722464727_436025ec01_z.jpg)
+
+4. First that you will be direct to settings payment provider, our module payment will appear on Alternative Payment, click the dropdown button Select additional payment method as follow 
+
+![](https://farm5.staticflickr.com/4616/27812192369_d7fb86c1ea_z.jpg)
+
+5. And second choose DOKU MERCHANT on the dropdown as follow : 
+
+![](https://farm5.staticflickr.com/4719/38694157485_e5d1325c56_z.jpg)
+
 
 ### Configuration ###
 

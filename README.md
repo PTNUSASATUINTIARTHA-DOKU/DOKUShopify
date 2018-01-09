@@ -123,13 +123,10 @@ For configuration DOKU MERCHANT as follow :
 
 Exhibit picture above : 
 
-    No 1. Tick according your environment, tick if you're on test mode / development or untick if you're on production
-
-    No 2. Please fill your Mall ID given by DOKU
-    
-    No 3. Please fill your Shared Key given by DOKU
-    
-    No 4. Tick if you want to see the Shared Key
+ No 1. Tick according your environment, tick if you're on test mode / development or untick if you're on production
+ No 2. Please fill your Mall ID given by DOKU
+ No 3. Please fill your Shared Key given by DOKU   
+ No 4. Tick if you want to see the Shared Key
 
 And click button Save for saving your changes
 

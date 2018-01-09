@@ -136,6 +136,40 @@ And click button Save for saving your changes
 
 ### DOKU INSTALLMENT ###
 
+For configuration DOKU INSTALLMENT as follow : 
+
+1. We thought that your Shopify Admin Panel Store as follow
+
+![](https://farm5.staticflickr.com/4712/38881688454_394c792c47_z.jpg)
+
+2. Go to Settings as follow : 
+
+![](https://farm5.staticflickr.com/4698/38694292145_f98cb07e99_z.jpg)
+
+3. Choose Payment Provders option as follow : 
+
+![](https://farm5.staticflickr.com/4694/27813369959_ca3823d0dd_z.jpg)
+
+4. See if you already enable DOKU INSTALLMENT on Alternative Payments as follow : 
+
+![](https://farm5.staticflickr.com/4717/38882007594_004c52a7b2.jpg)
+
+5. In that form reveal as follow : 
+
+![](https://farm5.staticflickr.com/4632/38882017644_e82689309d.jpg)
+
+Exhibit picture above : 
+
+ No 1. Tick according your environment, tick if you're on test mode / development or untick if you're on production
+
+ No 2. Please fill your Mall ID given by DOKU
+ 
+ No 3. Please fill your Shared Key given by DOKU   
+ 
+ No 4. Tick if you want to see the Shared Key
+
+And click button Save for saving your changes
+
 
 
 ### Support ###

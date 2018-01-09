@@ -23,12 +23,27 @@ We have 2 module payment on Shopify, where it's have each different payment type
 
 DOKU Merchant module payment are intend for Standard Payment such as :
 - Bank Transfer (VA)
+  - Bank Permata
+  - Bank Mandiri
+  - Bank Central Asia
+  - Bank Rakyat Indonesia
+  - CIMB Niaga
+  - Bank Danamon
 - Credit Card
 - Convenience Stores
+  - Alfamart
+  - Indomaret
 - Internet Banking
+  - Muamalat Internet Banking
+  - PermataNET
+  - Danamon Online Banking
 - DOKU Wallet
 - e-Commerce Payment
+  - Mandiri Clickpay
+  - CIMB Clicks
+  - e-Pay BRI
 - Tokenization
+- Kredivo
 
 2. DOKU Installment
 

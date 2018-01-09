@@ -55,9 +55,13 @@ https://www.shopify.com/login?redirect=%2Fadmin%2Fauthorize_gateway%2F1052680
 ![](https://farm5.staticflickr.com/4755/24721326177_b2a2f28e25_b.jpg)
 
 
-4. After that you will be direct to settings payment provider, our module payment are appear on Alternative Payments as follow : 
+4. First that you will be direct to settings payment provider, our module payment will appear on Alternative Payment, click the dropdown button Select additional payment method as follow 
 
-![](https://farm5.staticflickr.com/4744/24721361157_4187d96d81_z.jpg) 
+![](https://farm5.staticflickr.com/4616/27812192369_d7fb86c1ea_z.jpg)
+
+5. And second choose DOKU MERCHANT on the dropdown as follow : 
+
+![](https://farm5.staticflickr.com/4717/38880558804_7efd885005_z.jpg)
 
 
 

@@ -55,7 +55,7 @@ This installation covered  by 2 module payment.
 
 ### DOKU MERCHANT ###
 
-For installation DOKU MERCHANT module payment, installation require authorization, please follow step by step as follow :
+For installation DOKU MERCHANT module payment, installation require authorization, please follow step by step :
 
 
 1. Copy and paste the url below to your browser
@@ -84,7 +84,7 @@ https://www.shopify.com/login?redirect=%2Fadmin%2Fauthorize_gateway%2F1052680
 
 ### DOKU INSTALLMENT ###
 
-For installation DOKU INSTALLMENT module payment, installation require authorization, please follow step by step as follow :
+For installation DOKU INSTALLMENT module payment, installation require authorization, please follow step by step :
 
 
 1. Copy and paste the url below to your browser

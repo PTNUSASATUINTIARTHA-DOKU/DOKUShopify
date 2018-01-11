@@ -37,10 +37,10 @@ DOKU Merchant module payment are intend for Standard Payment such as :
   - Muamalat Internet Banking
   - PermataNET
   - Danamon Online Banking
+  - CIMB Clicks
 - DOKU Wallet
 - e-Commerce Payment
   - Mandiri Clickpay
-  - CIMB Clicks
   - e-Pay BRI
 - Tokenization
 - Kredivo
